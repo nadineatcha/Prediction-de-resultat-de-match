@@ -103,6 +103,3 @@ Le modèle avancé obtient de meilleures performances que le modèle de base gr�
 - L'optimisation des hyperparamètres
 - La gestion plus efficace des valeurs manquantes et aberrantes
 
-## 📄 Licence
-
-[Insérer information de licence]
